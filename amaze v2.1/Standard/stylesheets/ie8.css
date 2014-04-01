@@ -1,0 +1,8 @@
+#navigation {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    height: 70px;
+    z-index: 1000;
+    background: #000;
+}

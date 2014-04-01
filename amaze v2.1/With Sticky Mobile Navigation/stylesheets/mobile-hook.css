@@ -1,0 +1,16 @@
+@charset utf-8;
+
+/*USE THIS CSS FILE TO KEEP STYLES TARGETING ONLY MOBILE DEVICES*/
+.progress01{
+	width: 80% !important;
+}
+.progress02{
+	width: 65% !important;
+}
+.progress03{
+	width: 95% !important;
+}
+
+#intro{
+	min-height: 600px !important;
+}
