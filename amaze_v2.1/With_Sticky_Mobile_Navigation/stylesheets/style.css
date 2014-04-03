@@ -224,7 +224,7 @@ font-family:"Open_Sans_B";
 }
 
 /*Defining Pages or Section Container*/
-#radio {
+.radio {
 	z-index: 100;
 	height: 100%
 	width: 100%;
