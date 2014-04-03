@@ -216,13 +216,19 @@ font-family:"Open_Sans_B";
 #intro{
   height: 100%;
     width: 100%;
-  background: url(../images/intro.png) 1200px 0px no-repeat;
+  /*background: url(../images/intro.png) 1200px 0px no-repeat;*/
 }
 .top-space{
     padding-top: 100px;
 }
 
 /*Defining Pages or Section Container*/
+#radio {
+	z-index: 100;
+	height: 100%
+	width: 100%;
+	position: absolute;
+}
 #about{
     background: #fff url('../images/bg/w01.png') no-repeat top right;
 }
