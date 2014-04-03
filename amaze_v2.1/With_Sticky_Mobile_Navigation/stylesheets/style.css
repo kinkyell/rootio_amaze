@@ -137,6 +137,11 @@ p{
     padding-top: 30px;
     padding-bottom: 30px;
 }
+.slogan {
+	color: #FFF;
+	font-size: 20px;
+	padding-top: 20px;
+}
 .promo-caps{
     font-size: 64px;
     color: #000;
@@ -733,6 +738,7 @@ fieldset h1
 font-family:"Open_Sans_B";
 font-size: 64px;
 line-height: 72px;
+padding-left: 30px;
 }
 #address-block > h3{
 font-family:"Open_Sans_L";
