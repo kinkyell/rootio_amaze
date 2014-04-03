@@ -214,3 +214,8 @@ font-family:"sosa";
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/roboto/Roboto-Medium.ttf') format('truetype'),;
+}
+
