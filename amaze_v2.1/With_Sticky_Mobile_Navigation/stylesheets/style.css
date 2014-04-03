@@ -68,12 +68,12 @@ body {
     position: absolute;
     height: 70px;
     z-index: 1000;
-    background: rgba(0,0,0,0.4);
+    background: rgba(255,255,255,0.7);
 }
 .moveTop{
     position: fixed !important;
     top: 0 !important;
-    background: #000 !important;
+    background: #FFF !important;
 }
 #navigation ul {
     margin-top: 25px;
@@ -88,7 +88,7 @@ body {
 }
 #navigation a, #navigation a:active, #navigation a:visited {
 font-family:"Open_Sans_R";
-    color: #FFFFFF;
+    color: #3C2A2B;
     font-size: 12px;
     letter-spacing: 1px;
     padding: 3px;
@@ -96,7 +96,7 @@ font-family:"Open_Sans_R";
     text-transform: uppercase;
 }
 #navigation ul li a.lighted{
-    color: #F48C2D !important;
+    color: #148C98 !important;
 }
 .logo{
     width: 150px;
@@ -144,13 +144,13 @@ p{
 }
 .promo-caps{
     font-size: 64px;
-    color: #000;
+    color: #3C2A2B;
 font-family:"Roboto";
 }
 .promo-text{
     padding-bottom: 20px;
     font-size: 24px;
-    color: #000;
+    color: #3C2A2B;
     line-height: 32px;
 font-family:"Open_Sans_L";
     border-bottom: solid 10px #F48C2D;
@@ -188,7 +188,7 @@ font-family:"Open_Sans_B";
     transition: all 0.2s ease 0s;
 }
 .btn-amaze:hover{
-    background: none repeat scroll 0 0 #000;;
+    background: none repeat scroll 0 0 #3C2A2B;;
     border: 0 solid #ADADAD;
     border-radius: 3px 3px 3px 3px;
     color: #FFFFFF;
@@ -538,7 +538,7 @@ margin-bottom: 20px;
 }
 .show-btn:hover{
     margin-top: 10px;
-    background: none repeat scroll 0 0 #000;
+    background: none repeat scroll 0 0 #3C2A2B;
     border: 0 solid #ADADAD;
     border-radius: 3px 3px 3px 3px;
     color: #FFFFFF;
@@ -586,7 +586,7 @@ margin-bottom: 20px;
 .folio-title{
     display: none;
 font-family:"Roboto";
-    color: #000;
+    color: #3C2A2B;
     font-size: 36px;
     position: absolute;
     bottom: 50px;
@@ -597,7 +597,7 @@ font-family:"Roboto";
 .folio-subtitle{
     display: none;
 font-family:"Open_Sans_L";
-    color: #000;
+    color: #3C2A2B;
     font-size: 18px;
     position: absolute;
     bottom: 25px;
@@ -723,7 +723,7 @@ fieldset
 
 fieldset h1
 {
-    color:#000;
+    color:#3C2A2B;
     font-size:24px;
 }
 #address-block{
@@ -756,7 +756,7 @@ margin-right: 15px;
 .address-wrap{
     margin-top: 60px;
     padding: 60px 0px;
-    background: #F0F0F0;
+    background: #FEDAB2;
 }
 #link-block{
     text-align: left;
@@ -787,7 +787,7 @@ margin-right: 15px;
 
 /* 06 - FOOTER*/
 #mastfoot{
-    background: #000;
+    background: rgba(255,255,255,0.7);
     padding: 20px 0px;
 }
 .foot-social{
@@ -798,7 +798,7 @@ margin-right: 15px;
     margin-left: 20px;
 }
 .foot-social a > img{
-    opacity: 0.2;
+    opacity: 0.5;
 }
 .foot-social a > img:hover{
     opacity: 1;
@@ -808,12 +808,12 @@ margin-right: 15px;
     height: 70px;
 }
 .twitter-user{
-    color: #555;
+    color: #3C2A2B;
     font-weight: normal;
 font-family:"Open_Sans_B";
 }
 .twitter-user:hover{
-    color: #F48C2D;
+    color: #148C98;
 }
 
 
