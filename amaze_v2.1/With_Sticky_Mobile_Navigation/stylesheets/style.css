@@ -148,12 +148,13 @@ p{
 font-family:"Roboto";
 }
 .promo-text{
-    padding-bottom: 20px;
+    padding: 10px 10px 20px 0px;
     font-size: 24px;
     color: #3C2A2B;
     line-height: 32px;
 font-family:"Open_Sans_L";
-    border-bottom: solid 10px #F48C2D;
+    border-bottom: solid 10px #148C98;
+	background: rgba(254,218,178,.8);
 }
 .promo-text > span{
 font-family:"Open_Sans_B";
@@ -230,7 +231,8 @@ font-family:"Open_Sans_B";
 	position: absolute;
 }
 #about{
-    background: #fff url('../images/bg/w01.png') no-repeat top right;
+    /*background: #fff url('../images/bg/w01.png') no-repeat top right;*/
+	background: url('../images/bg/traditional_radio_studio.jpg') no-repeat top left;
 }
 #services{
     background: transparent url('../images/bg/d02.png') no-repeat top right;
@@ -1008,7 +1010,7 @@ font-family:"Open_Sans_B";
     }
     .promo-one h1 {
         font-size: 72px;
-    text-align: center;
+    	text-align: center;
     }
     .promo-text-inv, .promo-text{
         margin-top: 30px;
