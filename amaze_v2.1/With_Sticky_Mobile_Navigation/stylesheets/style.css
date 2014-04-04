@@ -156,7 +156,15 @@ font-family:"Open_Sans_L";
     border-bottom: solid 10px #148C98;
 	background: rgba(254,218,178,.8);
 }
-.promo-text > span{
+.promo-text-nobkgrd{
+    padding: 10px 10px 20px 0px;
+    font-size: 24px;
+    color: #3C2A2B;
+    line-height: 32px;
+font-family:"Open_Sans_L";
+    border-bottom: solid 10px #148C98;
+}
+.promo-text > span, .promo-text-nobkgrd > span{
 font-family:"Open_Sans_B";
 }
 .promo-caps-inv{
@@ -294,12 +302,14 @@ line-height: 24px;
 .about-feat{
     padding: 20px;
     color: #fff;
-    border-left: solid 10px #F48C2D;
+	background-color: #FEDAB2;
+    border-left: solid 10px #148C98;
 }
 .about-feat:hover{
     padding: 20px;
-    color: #000;
-    border-left: solid 10px #F48C2D;
+    color: #3C2A2B;
+	background-color: #eee;
+    border-left: solid 10px #FEA930;
     transition: all 0.7s ease-in-out 0s;
    transform: scale(1.1);
    z-index: 99 !important;
@@ -308,14 +318,14 @@ line-height: 24px;
     margin-top: 0px;
     font-size: 24px;
     line-height: 30px;
-    color: #fff;
+    color: #3C2A2B;
     font-weight: normal;
 font-family:"Roboto";
 }
 .about-feat:hover h2{
     font-size: 24px;
     line-height: 30px;
-    color: #F48C2D;
+    color: #148C98;
     font-weight: normal;
 font-family:"Roboto";
 }
@@ -323,7 +333,7 @@ font-family:"Roboto";
     margin-top: 0px;
     font-size: 18px;
     line-height: 24px;
-    color:#F48C2D;
+    color:#148C98;
     font-weight: normal;
 font-family:"Open_Sans_R";
 }
@@ -347,6 +357,7 @@ font-family:"Open_Sans_R";
     width: 25px;
     height: 25px;
 }
+/*
 .about-feat-01{
     background: #121212 url('../images/icons/a01.png') no-repeat top right; 
 }
@@ -371,6 +382,7 @@ font-family:"Open_Sans_R";
 .about-feat-04:hover{
     background: #eee url('../images/icons/a04h.png') no-repeat top right; 
 }
+*/
 .progress {
     border-radius: 0 0 0 0 !important;
     height: 35px;
