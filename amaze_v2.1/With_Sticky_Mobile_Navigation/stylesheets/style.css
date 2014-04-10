@@ -451,14 +451,14 @@ font-family:"Open_Sans_R";
    z-index: 99 !important;
 }
 .service-item p{
-    color: #aaa;
+    color: #fff;
 }
 .service-item:hover p{
     color: #000;
 }
 .service-item h2{
     font-size: 36px;
-    color: #fff;
+    color: #3C2A2B;
     font-weight: normal;
 font-family:"Roboto";
 }
@@ -472,13 +472,13 @@ font-family:"Roboto";
     margin-top: 20px;
 }
 .service-01{
-    background: #222 url('../images/icons/a01.png') no-repeat top right; 
+    background: #148C98 url('../images/icons/a01.png') no-repeat top right; 
 }
 .service-02{
-    background: #222 url('../images/icons/a02.png') no-repeat top right; 
+    background: #148C98 url('../images/icons/a02.png') no-repeat top right; 
 }
 .service-03{
-    background: #222 url('../images/icons/a03.png') no-repeat top right; 
+    background: #148C98 url('../images/icons/a03.png') no-repeat top right; 
 }
 .service-04{
     background: #222 url('../images/icons/a04.png') no-repeat top right; 
