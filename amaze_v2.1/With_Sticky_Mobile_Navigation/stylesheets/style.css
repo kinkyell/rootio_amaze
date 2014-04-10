@@ -80,20 +80,20 @@ body {
 }
 #navigation ul li {
     display: inline;
-    font-family: helvetica,"Muli",sans-serif,arial;
+    font-family: helvetica,"Source_Sans",sans-serif,arial;
     padding: 3px;
 }
 #menu{
     margin-right: 20px !important;
 }
 #navigation a, #navigation a:active, #navigation a:visited {
-font-family:"Open_Sans_R";
+font-family:"Source_Sans";
     color: #3C2A2B;
-    font-size: 12px;
+    font-size: 18px;
     letter-spacing: 1px;
     padding: 3px;
     text-decoration: none;
-    text-transform: uppercase;
+	font-weight: 500;
 }
 #navigation ul li a.lighted{
     color: #148C98 !important;
@@ -138,8 +138,9 @@ p{
     padding-bottom: 30px;
 }
 .slogan {
+	font-family: helvetica,"Source_Sans",sans-serif,arial;
 	color: #FFF;
-	font-size: 20px;
+	font-size: 26px;
 	padding-top: 20px;
 }
 .promo-caps{
