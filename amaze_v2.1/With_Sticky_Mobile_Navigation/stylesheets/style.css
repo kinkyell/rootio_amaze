@@ -454,7 +454,7 @@ font-family:"Open_Sans_R";
     color: #fff;
 }
 .service-item:hover p{
-    color: #000;
+    color: #3C2A2B;
 }
 .service-item h2{
     font-size: 36px;
@@ -464,7 +464,7 @@ font-family:"Roboto";
 }
 .service-item:hover h2{
     font-size: 36px;
-    color: #F48C2D;
+    color: #148C98;
     font-weight: normal;
 font-family:"Roboto";
 }
@@ -481,7 +481,13 @@ font-family:"Roboto";
     background: #148C98 url('../images/icons/a03.png') no-repeat top right; 
 }
 .service-04{
-    background: #222 url('../images/icons/a04.png') no-repeat top right; 
+    background: #148C98 url('../images/icons/a04.png') no-repeat top right; 
+}
+.service-05{
+    background: #148C98 url('../images/icons/a05.png') no-repeat top right; 
+}
+.service-06{
+    background: #148C98 url('../images/icons/a06.png') no-repeat top right; 
 }
 .service-01:hover{
     background: #eee url('../images/icons/a01h.png') no-repeat top right; 
@@ -495,7 +501,12 @@ font-family:"Roboto";
 .service-04:hover{
     background: #eee url('../images/icons/a04h.png') no-repeat top right; 
 }
-
+.service-05:hover{
+    background: #eee url('../images/icons/a05h.png') no-repeat top right; 
+}
+.service-06:hover{
+    background: #eee url('../images/icons/a06h.png') no-repeat top right; 
+}
 
 /*SHOWCASE*/
 .show-item{
