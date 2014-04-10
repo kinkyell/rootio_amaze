@@ -143,6 +143,10 @@ p{
 	font-size: 26px;
 	padding-top: 20px;
 }
+.info-blip {
+	background-color: rgba(255,255,255,.8);
+	padding: 20px;
+}
 .promo-caps{
     font-size: 64px;
     color: #3C2A2B;
@@ -172,6 +176,11 @@ font-family:"Open_Sans_B";
     font-size: 72px;
     color: #fff;
 font-family:"Roboto";
+}
+.promo-caps-blue{
+    font-size: 60px;
+    color: #148C98;
+	font-family:"Roboto";
 }
 .promo-text-inv{
     padding-bottom: 20px;
@@ -410,12 +419,13 @@ font-family:"Open_Sans_R";
 /*SERVICES*/
 .service-testimonial{
     margin-top: 30px;
-    font-size: 22px;
+    font-size: 24px;
     line-height: 28px;
-    color: #ccc;
-font-family:"Open_Sans_L";
-padding-bottom: 20px;
-border-bottom: solid 10px #000;
+    color: #3C2A2B;
+	/*font-family:"Open_Sans_L";*/
+	font-family:"Source_Sans";
+	padding-bottom: 20px;
+	/*border-bottom: solid 10px #000;*/
 }
 .testimonial-client{
     font-size: 24px;
