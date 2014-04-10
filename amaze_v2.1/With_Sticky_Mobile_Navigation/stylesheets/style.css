@@ -253,7 +253,8 @@ font-family:"Open_Sans_B";
 	background: url('../images/bg/traditional_radio_studio.jpg') no-repeat top left;
 }
 #services{
-    background: transparent url('../images/bg/d02.png') no-repeat top right;
+    /*background: transparent url('../images/bg/d02.png') no-repeat top right;*/
+	background: url('../images/bg/rootio_radio_studio.jpg') no-repeat top left;
 }
 #showcase{
     background: #fff url('../images/bg/w03.png') no-repeat top right;
